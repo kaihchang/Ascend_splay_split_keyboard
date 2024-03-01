@@ -1,1 +1,3 @@
-# Ascend_splay_split_keyboard
+# Kai Ascend, a split keyboard with encoders & displays
+
+First time designing my own keyboard.
