@@ -2,6 +2,9 @@
 
 First time designing my own keyboard. Also my first Kicad project.
 
+I wanted a board with both MX and Choc switches, creating a natural elevation when used without wrist rests. One of the reasons I start using split ergos is to save desk space, so I'd like my board to be wireless and not rely on extra supports.
+Thought about getting rid of "Q" and "P" positions since I prefer using extra pinky column (same as pinky column in schema but anyway) for those, but then that doesn't really save any space and pin, so I kept them eventually.
+
 PCB:
 ![image](https://github.com/kaihchang/Ascend_splay_split_keyboard/assets/43580584/ad4c5007-cff9-4e4d-bf61-f92c82fa6464)
 Build:
