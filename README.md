@@ -1,8 +1,8 @@
-# Kai Ascend, a split keyboard with encoders & displays
+# Kai Ascend, a wireless split keyboard with encoders & displays
 
 First time designing my own keyboard. Also my first Kicad project.
 
-I wanted a board with both MX and Choc switches, creating a natural elevation when used without wrist rests. One of the reasons I start using split ergos is to save desk space, so I'd like my board to be wireless and not rely on extra supports.
+I wanted a board with both MX and Choc switches, creating a natural elevation when used without wrist rests. One of the reasons I start using split ergos is to save desk space, so I'd like my board to be wireless (utilizing ZMK) and not rely on extra supports.
 Thought about getting rid of "Q" and "P" positions since I prefer using extra pinky column (same as pinky column in schema but anyway) for those, but then that doesn't really save any space and pin, so I kept them eventually.
 
 PCB:
