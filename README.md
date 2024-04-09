@@ -11,3 +11,6 @@ Build:
 ![PXL_20240302_000444597](https://github.com/kaihchang/Ascend_splay_split_keyboard/assets/43580584/49f7c824-7e99-4c96-98e3-8f242260d630)
 With tenting:
 ![PXL_20240229_094750736](https://github.com/kaihchang/Ascend_splay_split_keyboard/assets/43580584/2af183fe-44ab-4fc0-85bb-36070df7df5d)
+
+Some suggested to use wires instead of infills to make soldering easier but keep the infills for the environment cuz' manufacturers are gonna use them anyways, so I added those in v1.3 and had some minor changes.
+Haven't edited the STL files for the case of v1.3.
